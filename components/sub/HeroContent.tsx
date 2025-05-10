@@ -50,7 +50,7 @@ const HeroContent = () => {
           Mobile, and Software development. Check out my projects and skills.
         </motion.p>
         <motion.a
-         href="/Resume-Naresh-Ramalingam.pdf" // Make sure your resume is in the /public folder
+         href="/Resume-Naresh-Ramalingam.pdf" 
          target="_blank"
          rel="noopener noreferrer"
           variants={slideInFromLeft(1)}
