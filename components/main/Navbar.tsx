@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a
           href="#about-me"
-          className="h-auto w-auto flex flex-row items-center"
+          className="h-auto w-auto flex flex-row items-center whitespace-nowrap"
         >
 
           <span className="flex font-mono text-lg  ml-[10px]  text-gray-300 border border-[#7042f861] mr-[15px] px-[20px] py-[10px] rounded-full">
