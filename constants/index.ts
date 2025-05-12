@@ -76,7 +76,7 @@ export const Skill_data = [
     {
       name: "Linkedin",
       src: "/linkedin.png",
-      url: "www.linkedin.com/in/nareshramalingam96",
+      url: "https://www.linkedin.com/in/naresh-ramalingam-676751246/",
     },
   ];
   
