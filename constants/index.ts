@@ -153,6 +153,14 @@ export const Skill_data = [
       height: 80,
     },
   ];
+
+  export const ProjectCard = [
+    {
+      src: "/simon-game.png" ,
+      title: "Simon Game" ,
+      description: "This is a web-based Simon Says game that tests a player's memory and pattern recognition skills. 🕹️ Simon Says Game" ,
+    }
+  ]
   
   
   

@@ -12,7 +12,7 @@ const Navbar = () => {
           className="h-auto w-auto flex flex-row items-center whitespace-nowrap sm:px-6"
         >
 
-          <span className="flex font-mono text-lg  ml-[10px] sm:ml-0 text-gray-300 border border-[#7042f861] mr-[15px] px-[20px] py-[10px] rounded-full">
+          <span className="flex font-mono text-lg  ml-[-30px] sm:ml-0 text-gray-300 border border-[#7042f861] mr-[15px] px-[20px] py-[10px] rounded-full">
             Naresh Ramalingam
           </span>
         </a>
